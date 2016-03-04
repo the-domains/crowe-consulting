@@ -1,0 +1,14 @@
+layout_spectrum: 0.912766
+color:
+  saturation: 0.7148936
+  lightness: 0.02296027
+  brandStrength: 0.8361702
+  brandColors:
+    - '#0062A6'
+    - '#0D0C0A'
+    - '#FFFFFF'
+    - '#4B4A4A'
+    - '#7C7B79'
+  rhythmicContrast: 0.5381083
+typography_spectrum: 0.6191489
+name: 'Crowe Consulting '
