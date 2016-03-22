@@ -4,12 +4,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+typography_spectrum: 0.4765958
 color:
   saturation: 0.7978724
   brandStrength: 0.8361702
@@ -21,6 +22,5 @@ color:
     - '#4B4A4A'
     - '#7C7B79'
   rhythmicContrast: 0.5404255
-typography_spectrum: 0.4765958
 layout_spectrum: 0.912766
 name: 'Crowe Consulting '
